@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Greg Hinch"
+title                    : "Greg Hinch - Californian in London"
 title_separator          : "-"
 name                     : "Greg Hinch"
-description              : "An amazing website."
+description              : "Californian in London"
 url                      : "http://greghinch.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ghinch/ghinch.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Greg Hinch"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "London"
+  avatar           : "https://secure.gravatar.com/avatar/9e6d21592f50c29457417e04a1671067"
+  bio              : "Engineer turned Product Manager, Californian in London"
+  location         : "London, UK"
   email            : "greg@greghinch.com"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "201103/greg-hinch" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : "greghinch"
