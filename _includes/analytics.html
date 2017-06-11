@@ -1,4 +1,4 @@
-{% if site.analytics.provider and page.analytics != false and site.github.hostname = "github.com" %}
+{% if site.analytics.provider and page.analytics != false and site.github.hostname == "github.com" %}
 
 {% case site.analytics.provider %}
 {% when "google" %}
