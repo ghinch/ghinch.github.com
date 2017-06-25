@@ -20,3 +20,27 @@
     margin-top: 0.5em;
     padding: 0 1em 0.5em
 }
+
+html {
+    background: none
+}
+
+.layout--home {
+    background: linear-gradient(rgba(205, 205, 205, .60), rgba(240, 240, 240, .85)), url("../img/bg.jpg");
+}
+
+.layout--home .splash {
+    max-width: 800px;
+    margin: 25% auto 10%;
+    text-align: center;
+}
+
+.layout--home .splash h1{
+    background-color: rgba(245, 245, 245, .40);
+    padding: .1em .5em .1em;
+    border-radius: 0.35em;
+    font-family: Georgia serif;
+    font-size: 2.5em;
+    display: inline-block;
+    box-shadow: 0 0 8px 5px rgba(240, 240, 240, 0.25);
+}
