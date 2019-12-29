@@ -1,0 +1,54 @@
+body {
+    background-color: #fffefc;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    width: 382px;
+    height: 618px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title {
+    padding-top: 199.5px
+}
+
+h1 {
+    font-family: Georgia, serif;
+    font-size: 74.49px;
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    margin: 23.6px 0 0;
+    padding: 0;
+}
+
+.footer {
+    display: flex;
+    height: 300.5px;
+}
+
+.social-icons {
+    align-self: flex-end;
+    margin: 0 auto;
+    height: 32px;
+}
+
+.social-icons a {
+    display: inline-block;
+    height: 32px;
+    width: 32px;
+    margin-right: 9px;
+}
+
+.social-icons a:last-child {
+    margin-right: 0;
+}
